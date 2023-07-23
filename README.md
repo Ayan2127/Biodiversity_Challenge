@@ -21,7 +21,7 @@ Belly Button Biodiversity Dashboard:
 --Created a bubble chart using Plotly with the specified data and layout
 
 
---Created basic gauge chart with color gradient, displaying frequency of belly button scrubs per week 
+--Produced a basic gauge chart with color gradient, displaying frequency of belly button scrubs per week 
 
 
 
