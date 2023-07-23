@@ -1,6 +1,6 @@
 # Biodiversity_Challenge
 
-Belly Button Biodiversity Dashboard
+BIODIVERSITY DASHBOARD
 
 Build an interactive dashboard that allows users to explore the Belly Button Biodiversity dataset. This dataset catalogs the microbes found in human navels and reveals interesting insights, such as a small number of microbial species being present in over 70% of people, while others are relatively rare.
 
@@ -8,6 +8,8 @@ In this project, we'll use HTML, CSS, and JavaScript along with the Plotly.js li
 
 Once completed, you can deploy the interactive dashboard on GitHub Pages to make it easily accessible and shareable.
 
+
+**************************************************************************************************************************************
 
 
 Challenge logistics:
